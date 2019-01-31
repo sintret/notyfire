@@ -1,2 +1,2 @@
 # notyfire
-Notification webhook for all platform
+Notification webhook for OJS
